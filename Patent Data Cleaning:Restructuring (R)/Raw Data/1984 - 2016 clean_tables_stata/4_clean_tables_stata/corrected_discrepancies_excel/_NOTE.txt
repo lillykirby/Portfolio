@@ -1,0 +1,1 @@
+These files contain hand-coded corrections that are implemented when create_final_data.do is run. It is important that these files are not altered in any way.
